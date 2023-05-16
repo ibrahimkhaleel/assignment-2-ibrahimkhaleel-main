@@ -10,4 +10,4 @@ This project demonstrates about cars table
 | `/cars` | `GET` | Table data showing car information with name and model |
 | `/admin/init` | `GET` | shows initialised page when database is setup |
 
-Shows information of single cars on click 
+Shows information of single cars on click of cars
